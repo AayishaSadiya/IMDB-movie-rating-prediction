@@ -1,2 +1,3 @@
 # IMDB-movie-rating-prediction
- 
+
+This project revolves around predicting IMDb movie ratings using machine learning techniques. The dataset comprises details of 5,043 movies, including features such as movie duration, director and actor information, genre, and more. The primary objective is to build a predictive model that accurately estimates IMDb ratings based on these movie attributes.After thorough data analysis, feature engineering, and model development, our models achieved an impressive accuracy rate of 94-95%. You can find the complete code and results on our GitHub repository for more insights.
